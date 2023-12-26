@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="fragment_counter_text">Fragments = %d</string>
+    <string name="back_button">Back</string>
+    <string name="details_button_fragment">Fragment details button</string>
+    <string name="details_text_fragment">Details here</string>
+    <string name="button_A">Button A</string>
+    <string name="button_B">Button B</string>
+    <string name="button_C">Button C</string>
+</resources>
